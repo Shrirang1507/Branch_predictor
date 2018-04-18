@@ -1,0 +1,126 @@
+Transcripts for Project 2
+
+Validation_Run:  val_bimodal_1.txt:
+Grades: 100.0
+Total Contents = 128
+Total Wrong Contents = 0
+Total Stats = 3
+Total Wrong Stats = 0
+Total Tags = NA
+Total Wrong Tags = NA
+
+
+Validation_Run:  val_bimodal_2.txt:
+Grades: 100.0
+Total Contents = 1024
+Total Wrong Contents = 0
+Total Stats = 3
+Total Wrong Stats = 0
+Total Tags = NA
+Total Wrong Tags = NA
+
+
+Validation_Run:  val_bimodal_3.txt:
+Grades: 100.0
+Total Contents = 32
+Total Wrong Contents = 0
+Total Stats = 3
+Total Wrong Stats = 0
+Total Tags = NA
+Total Wrong Tags = NA
+
+
+Validation_Run:  val_bimodal_4.txt:
+Grades: 100.0
+Total Contents = 64
+Total Wrong Contents = 0
+Total Stats = 3
+Total Wrong Stats = 0
+Total Tags = NA
+Total Wrong Tags = NA
+
+
+Validation_Run:  val_gshare_1.txt:
+Grades: 100.0
+Total Contents = 1024
+Total Wrong Contents = 0
+Total Stats = 3
+Total Wrong Stats = 0
+Total Tags = NA
+Total Wrong Tags = NA
+
+
+Validation_Run:  val_gshare_2.txt:
+Grades: 100.0
+Total Contents = 16384
+Total Wrong Contents = 0
+Total Stats = 3
+Total Wrong Stats = 0
+Total Tags = NA
+Total Wrong Tags = NA
+
+
+Validation_Run:  val_gshare_3.txt:
+Grades: 100.0
+Total Contents = 2048
+Total Wrong Contents = 0
+Total Stats = 3
+Total Wrong Stats = 0
+Total Tags = NA
+Total Wrong Tags = NA
+
+
+Validation_Run:  val_gshare_4.txt:
+Grades: 100.0
+Total Contents = 1024
+Total Wrong Contents = 0
+Total Stats = 3
+Total Wrong Stats = 0
+Total Tags = NA
+Total Wrong Tags = NA
+
+
+Validation_Run:  val_hybrid_1.txt:
+Grades: 100.0
+Total Contents = 16960
+Total Wrong Contents = 0
+Total Stats = 3
+Total Wrong Stats = 0
+Total Tags = NA
+Total Wrong Tags = NA
+
+
+Validation_Run:  val_hybrid_2.txt:
+Grades: 100.0
+Total Contents = 1088
+Total Wrong Contents = 0
+Total Stats = 3
+Total Wrong Stats = 0
+Total Tags = NA
+Total Wrong Tags = NA
+
+
+Validation_Run:  val_BTB_1.txt:
+Grades: 0
+Total Contents = NA
+Total Wrong Contents = NA
+Total Stats = NA
+Total Wrong Stats = NA
+Total Tags = NA
+Total Wrong Tags = NA
+
+
+Validation_Run:  val_BTB_2.txt:
+Grades: 0
+Total Contents = NA
+Total Wrong Contents = NA
+Total Stats = NA
+Total Wrong Stats = NA
+Total Tags = NA
+Total Wrong Tags = NA
+
+
+Total Coding Part Full Credit is 50+14 for ECE463 Students, and 60+7 for ECE563 Students
+Normal Grades: 60.0
+Bonus Grades: 0.0
+Total Grades: 60.0
